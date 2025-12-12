@@ -180,7 +180,7 @@ export default function LandingPage() {
               quote: "We celebrated our anniversary at Smachno and it was perfect. Every course was a masterpiece, and the ambiance made the evening truly special.",
               name: "Isabella Martinez",
               role: "Event Planner",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765541365111-ce50hpvd.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765541655496-mgpmuhfs.jpg",
               imageAlt: "Isabella Martinez"
             },
             {
