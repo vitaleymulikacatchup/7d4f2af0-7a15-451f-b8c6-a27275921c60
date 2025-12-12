@@ -146,7 +146,7 @@ export default function LandingPage() {
               id: "chef-2",
               name: "Sophia Laurent",
               role: "Pastry Chef",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765541363921-065l9wua.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765539376960-0gymf75t.jpg",
               imageAlt: "Sophia Laurent, Pastry Chef"
             }
           ]}
