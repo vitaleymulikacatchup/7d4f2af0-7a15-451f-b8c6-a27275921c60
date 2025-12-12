@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -67,8 +67,7 @@ export default function LandingPage() {
             {
               id: "dish-1",
               button: {
-                text: "Order Now",
-                id: "order-dish-1"
+                text: "Order Now"
               },
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765541362320-ut4shdn3.jpg",
               imageAlt: "Gourmet signature dish",
@@ -77,8 +76,7 @@ export default function LandingPage() {
             {
               id: "dish-2",
               button: {
-                text: "Order Now",
-                id: "order-dish-2"
+                text: "Order Now"
               },
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765540137890-c8kpgdps.jpg",
               imageAlt: "Appetizer selection",
@@ -87,8 +85,7 @@ export default function LandingPage() {
             {
               id: "dish-3",
               button: {
-                text: "Order Now",
-                id: "order-dish-3"
+                text: "Order Now"
               },
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765540136939-u141gep9.jpg",
               imageAlt: "Dessert specialty",
